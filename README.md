@@ -9,7 +9,7 @@
 ## 功能优势
 
 
-[![速拼图](https://pintu.luhui.net/pintu](https://pintu.luhui.net/img/strength/pintu.webp)
+[![速拼图](https://pintu.luhui.net/img/strength/pintu.webp](https://pintu.luhui.net/pintu)
 
 # 多种拼接模板
 
@@ -26,7 +26,7 @@
 # 步骤一
 
 
-[![速拼图](https://pintu.luhui.net/pintu](https://pintu.luhui.net/img/step/pintu%20(1).png)
+[![速拼图](https://pintu.luhui.net/img/step/pintu%20(1).png](https://pintu.luhui.net/pintu)
 
 
 选择喜欢的拼图模板
@@ -35,14 +35,14 @@
 # 步骤二
 
 
-[![速拼图](https://pintu.luhui.net/pintu](https://pintu.luhui.net/img/step/pintu%20(2).pngp)
+[![速拼图](https://pintu.luhui.net/img/step/pintu%20(2).png](https://pintu.luhui.net/pintu)
 
 选择图片添加，并按需调整边框、间距等各项参数
 
 # 步骤三
 
 
-[![速拼图](https://pintu.luhui.net/pintu](https://pintu.luhui.net/img/step/pintu%20(3).png)
+[![速拼图](https://pintu.luhui.net/img/step/pintu%20(3).png](https://pintu.luhui.net/pintu)
 
 点击“导出图片”即可下载编辑的图片
 
