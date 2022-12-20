@@ -8,8 +8,8 @@
 
 ## 功能优势
 
+![速拼图绘制展示](http://pintu.luhui.net/img/strength/pintu.webp)
 
-[![速拼图](https://pintu.luhui.net/img/strength/pintu.webp](https://pintu.luhui.net/pintu)
 
 # 多种拼接模板
 
@@ -25,8 +25,7 @@
 
 # 步骤一
 
-
-[![速拼图](https://pintu.luhui.net/img/step/pintu%20(1).png](https://pintu.luhui.net/pintu)
+![速拼图绘制展示](http://pintu.luhui.net/img/step/pintu%20(1).png)
 
 
 选择喜欢的拼图模板
